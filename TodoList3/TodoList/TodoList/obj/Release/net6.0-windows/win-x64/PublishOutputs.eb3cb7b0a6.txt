@@ -1,0 +1,8 @@
+C:\Users\shen\Desktop\zidai\TodoList.pdb
+C:\Users\shen\Desktop\zidai\TodoList.dll.config
+C:\Users\shen\Desktop\zidai\D3DCompiler_47_cor3.dll
+C:\Users\shen\Desktop\zidai\PenImc_cor3.dll
+C:\Users\shen\Desktop\zidai\PresentationNative_cor3.dll
+C:\Users\shen\Desktop\zidai\vcruntime140_cor3.dll
+C:\Users\shen\Desktop\zidai\wpfgfx_cor3.dll
+C:\Users\shen\Desktop\zidai\TodoList.exe

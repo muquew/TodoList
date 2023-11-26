@@ -1,0 +1,8 @@
+D:\Share\i\axdx\TodoList3\TodoList\TodoList\bin\Release\net6.0-windows\win-x64\app.publish\TodoList.pdb
+D:\Share\i\axdx\TodoList3\TodoList\TodoList\bin\Release\net6.0-windows\win-x64\app.publish\TodoList.dll.config
+D:\Share\i\axdx\TodoList3\TodoList\TodoList\bin\Release\net6.0-windows\win-x64\app.publish\D3DCompiler_47_cor3.dll
+D:\Share\i\axdx\TodoList3\TodoList\TodoList\bin\Release\net6.0-windows\win-x64\app.publish\PenImc_cor3.dll
+D:\Share\i\axdx\TodoList3\TodoList\TodoList\bin\Release\net6.0-windows\win-x64\app.publish\PresentationNative_cor3.dll
+D:\Share\i\axdx\TodoList3\TodoList\TodoList\bin\Release\net6.0-windows\win-x64\app.publish\vcruntime140_cor3.dll
+D:\Share\i\axdx\TodoList3\TodoList\TodoList\bin\Release\net6.0-windows\win-x64\app.publish\wpfgfx_cor3.dll
+D:\Share\i\axdx\TodoList3\TodoList\TodoList\bin\Release\net6.0-windows\win-x64\app.publish\TodoList.exe

@@ -1,0 +1,8 @@
+D:\Share\i\axdx\TodoList3\publish\TodoList.pdb
+D:\Share\i\axdx\TodoList3\publish\TodoList.dll.config
+D:\Share\i\axdx\TodoList3\publish\D3DCompiler_47_cor3.dll
+D:\Share\i\axdx\TodoList3\publish\PenImc_cor3.dll
+D:\Share\i\axdx\TodoList3\publish\PresentationNative_cor3.dll
+D:\Share\i\axdx\TodoList3\publish\vcruntime140_cor3.dll
+D:\Share\i\axdx\TodoList3\publish\wpfgfx_cor3.dll
+D:\Share\i\axdx\TodoList3\publish\TodoList.exe
