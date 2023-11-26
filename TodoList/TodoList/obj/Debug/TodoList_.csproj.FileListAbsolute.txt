@@ -1,0 +1,37 @@
+C:\Users\shen\source\repos\TodoList\TodoList\bin\Debug\TodoList.exe.config
+C:\Users\shen\source\repos\TodoList\TodoList\bin\Debug\TodoList.exe
+C:\Users\shen\source\repos\TodoList\TodoList\bin\Debug\TodoList.pdb
+C:\Users\shen\source\repos\TodoList\TodoList\obj\Debug\TodoList_.csproj.AssemblyReference.cache
+C:\Users\shen\source\repos\TodoList\TodoList\obj\Debug\TodoList_.csproj.SuggestedBindingRedirects.cache
+C:\Users\shen\source\repos\TodoList\TodoList\obj\Debug\TodoList.TodoList.resources
+C:\Users\shen\source\repos\TodoList\TodoList\obj\Debug\TodoList.Properties.Resources.resources
+C:\Users\shen\source\repos\TodoList\TodoList\obj\Debug\TodoList_.csproj.GenerateResource.cache
+C:\Users\shen\source\repos\TodoList\TodoList\obj\Debug\TodoList_.csproj.CoreCompileInputs.cache
+C:\Users\shen\source\repos\TodoList\TodoList\obj\Debug\TodoList.exe
+C:\Users\shen\source\repos\TodoList\TodoList\obj\Debug\TodoList.pdb
+C:\Users\shen\source\repos\TodoList\TodoList\bin\Debug\TodoList.exe.manifest
+C:\Users\shen\source\repos\TodoList\TodoList\bin\Debug\TodoList.application
+C:\Users\shen\source\repos\TodoList\TodoList\obj\Debug\TodoList.exe.manifest
+C:\Users\shen\source\repos\TodoList\TodoList\obj\Debug\TodoList.application
+C:\Users\shen\source\repos\TodoList\TodoList\obj\Debug\TodoList.Text.resources
+C:\Users\shen\source\repos\TodoList\TodoList\bin\Debug\byn\TodoList.resources.dll
+C:\Users\shen\source\repos\TodoList\TodoList\obj\Debug\TodoList.TodoList.byn.resources
+C:\Users\shen\source\repos\TodoList\TodoList\obj\Debug\byn\TodoList.resources.dll
+D:\Visual Studio\repos\TodoList\TodoList\bin\Debug\TodoList.exe.config
+D:\Visual Studio\repos\TodoList\TodoList\bin\Debug\TodoList.exe.manifest
+D:\Visual Studio\repos\TodoList\TodoList\bin\Debug\TodoList.application
+D:\Visual Studio\repos\TodoList\TodoList\bin\Debug\TodoList.exe
+D:\Visual Studio\repos\TodoList\TodoList\bin\Debug\TodoList.pdb
+D:\Visual Studio\repos\TodoList\TodoList\bin\Debug\byn\TodoList.resources.dll
+D:\Visual Studio\repos\TodoList\TodoList\obj\Debug\TodoList_.csproj.AssemblyReference.cache
+D:\Visual Studio\repos\TodoList\TodoList\obj\Debug\TodoList.TodoList.resources
+D:\Visual Studio\repos\TodoList\TodoList\obj\Debug\TodoList.Properties.Resources.resources
+D:\Visual Studio\repos\TodoList\TodoList\obj\Debug\TodoList.Text.resources
+D:\Visual Studio\repos\TodoList\TodoList\obj\Debug\TodoList.TodoList.byn.resources
+D:\Visual Studio\repos\TodoList\TodoList\obj\Debug\TodoList_.csproj.GenerateResource.cache
+D:\Visual Studio\repos\TodoList\TodoList\obj\Debug\TodoList_.csproj.CoreCompileInputs.cache
+D:\Visual Studio\repos\TodoList\TodoList\obj\Debug\byn\TodoList.resources.dll
+D:\Visual Studio\repos\TodoList\TodoList\obj\Debug\TodoList.exe.manifest
+D:\Visual Studio\repos\TodoList\TodoList\obj\Debug\TodoList.application
+D:\Visual Studio\repos\TodoList\TodoList\obj\Debug\TodoList.exe
+D:\Visual Studio\repos\TodoList\TodoList\obj\Debug\TodoList.pdb
