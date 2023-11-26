@@ -1,1 +1,0 @@
-D:\Share\i\axdx\TodoList3\TodoList\TodoList\obj\Debug\netcoreapp3.0\TodoList.csproj.AssemblyReference.cache
