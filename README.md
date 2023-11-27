@@ -10,3 +10,6 @@
 
 ## 4
 tauri(rust+vue)
+
+npm run tauri dev
+npm run tauri build
