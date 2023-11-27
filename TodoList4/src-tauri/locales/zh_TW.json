@@ -1,0 +1,69 @@
+{
+    "is": "zh_TW",
+    "language": {
+        "label": "語言(Language)",
+        "content": "繁體中文",
+        "isChange": "你想要把語言改為\"{}\"嗎？"
+    },
+    "windowsTitle": {
+        "main": "待辦事項列表",
+        "change": "修改",
+        "settings": "設置"
+    },
+    "trayMenu": {
+        "changeWindow": "修改",
+        "hide": "隱藏",
+        "show": "顯示",
+        "hideDecorations": "隱藏背景",
+        "showDecorations": "顯示背景",
+        "settings": "設置",
+        "quit": "退出"
+    },
+    "settingsTabs": {
+        "General": "常規",
+        "Interface": "界面",
+        "Shortcut": "快捷鍵",
+        "About": "關於",
+        "Todo": "待完成"
+    },
+    "settings": {
+        "Interface": {
+            "orderList": "序號",
+            "fontColor": "字體顏色",
+            "fontSize": "字體大小"
+        },
+        "Shortcut": {
+            "changeWindow": "打開修改窗口"
+        },
+        "About": {
+            "Copyright": "版權所有",
+            "Contact": "聯係："
+        }
+    },
+    "dynamicInput": {
+       "Placeholder": {
+            "input": "請輸入待辦事項",
+            "datetime": "請選擇日期時間"
+        },
+        "buttons": {
+            "confirm": "保存",
+            "cancel": "取消",
+            "empty": "清空",
+            "deleteBlank": "刪除空白項",
+            "sort": "時間"
+        }
+    },
+    "Todo": {
+        "id": "待完成",
+        "items": {
+            "shortcut": "快捷鍵",
+            "theme": "主題顔色",
+            "default": "恢復默認配置"
+        },
+        "shortcut": {
+            "one": "待完成",
+            "two": "内置快捷鍵（可能無法正常使用）：",
+            "three": "打開修改窗口：Ctrl+F1"
+        }
+    }
+}
