@@ -1,0 +1,69 @@
+{
+    "is": "en",
+    "language": {
+        "label": "Language(语言)",
+        "content": "English",
+        "isChange": "Do you want to change the language to \"{}\"?"
+    },
+    "windowsTitle": {
+        "main": "To-Do List",
+        "change": "Modify",
+        "settings": "Settings"
+    },
+    "trayMenu": {
+        "changeWindow": "Modify",
+        "hide": "Hide",
+        "show": "Show",
+        "hideDecorations": "Hide Background",
+        "showDecorations": "Show Background",
+        "settings": "Settings",
+        "quit": "Quit"
+    },
+    "settingsTabs": {
+        "General": "General",
+        "Interface": "Interface",
+        "Shortcut": "Shortcut",
+        "About": "About",
+        "Todo": "ToDo"
+    },
+    "settings": {
+        "Interface": {
+            "orderList": "Order",
+            "fontColor": "Font Color",
+            "fontSize": "Font Size"
+        },
+        "Shortcut": {
+            "changeWindow": "open Modify Window"
+        },
+        "About": {
+            "Copyright": "Copyright",
+            "Contact": "Contact:"
+        }
+    },
+    "dynamicInput": {
+       "Placeholder": {
+            "input": "Enter your to-do item",
+            "datetime": "Select date and time"
+        },
+        "buttons": {
+            "confirm": "Save",
+            "cancel": "Cancel",
+            "empty": "Clear",
+            "deleteBlank": "Delete Blank Items",
+            "sort": "Time"
+        }
+    },
+    "Todo": {
+        "id": "ToDo",
+        "items": {
+            "shortcut": "shortcut",
+            "theme": "Theme Colors",
+            "default": "Restore default Settings"
+        },
+        "shortcut": {
+            "one": "ToDo",
+            "two": "Built-in shortcuts (may not work)",
+            "three": "Open the modification window: Ctrl+F1"
+        }
+    }
+}
